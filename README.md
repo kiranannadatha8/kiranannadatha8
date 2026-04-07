@@ -33,20 +33,9 @@ Infra        Vercel · Docker · AWS · GitHub Actions
 
 ---
 
-## Featured Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| [Job Pipeline](https://github.com/kiranannadatha8/job-application-pipeline) | Python · Claude API · Playwright | Automates resume tailoring, ATS scoring, and form autofill |
-| [Tenzies Game](https://github.com/kiranannadatha8/tenzies-game) | React · JavaScript | Interactive dice game — [live demo](http://tenzies-game-fawn.vercel.app) |
-| [React Calendar](https://github.com/kiranannadatha8/react-cal) | React · CSS | Fully interactive calendar component with event management |
-| [Markdown Preview](https://github.com/kiranannadatha8/markdownPreview) | JavaScript · HTML | Real-time markdown editor with live preview |
-
----
-
 ## Currently
 
-- 🎓 Finishing MS Software Engineering @ GMU (graduating 2025)
+- 🎓 Finishing MS Software Engineering @ GMU (graduating 2026)
 - 🔍 Actively seeking **full stack engineering roles** at early-stage startups
 - 📖 Deep-diving into: AI agent architectures, LLM tooling, distributed systems
 - 🛠️ F1 STEM OPT — authorized to work 3 years, zero sponsorship cost
